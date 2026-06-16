@@ -1,0 +1,23 @@
+Company Privacy Policy v1.0
+
+1. Data Collection: We collect customer name, email, phone number, and address to process orders.
+
+2. Data Usage: We use customer data to fulfill orders, send promotional emails, and improve our services.
+
+3. Data Sharing: We share customer data with our logistics partners and payment gateways for order fulfillment.
+
+4. Data Security: We store all data on secure servers with password protection. We take reasonable steps to protect data.
+
+5. Data Retention: We keep customer data indefinitely for record-keeping and analytics purposes.
+
+6. Children: We do not have any specific policy for children. All users can use our service.
+
+7. User Rights: If you wish to access, correct, or delete your data, please email us at support@company.com. We will try to respond within 30 days.
+
+8. Grievances: For any complaints, email us at support@company.com.
+
+9. Breach Notification: In case of a data breach, we will investigate and take necessary action.
+
+10. International Transfer: We use cloud services located in the USA and Singapore.
+
+Date: January 2026

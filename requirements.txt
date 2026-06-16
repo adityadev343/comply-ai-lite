@@ -1,0 +1,16 @@
+streamlit
+plotly
+python-dotenv
+PyPDF2
+openpyxl
+pandas
+groq
+langchain
+langchain-community
+langchain-text-splitters
+langchain-chroma
+langchain-huggingface
+chromadb
+pypdf
+sentence-transformers
+faiss-cpu

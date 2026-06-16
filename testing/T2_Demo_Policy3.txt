@@ -1,0 +1,19 @@
+Children's Data Protection Policy
+
+1. Age Verification: We collect date of birth during registration. If a user is under 18, we require proof of parental consent via a signed document uploaded by the parent.
+
+2. Parental Consent: We store the parent's name, contact details, and a copy of the signed consent form.
+
+3. Data Collected from Children: We collect name, school name, class, and academic performance data.
+
+4. Use of Data: Data is used to provide personalised learning recommendations and send targeted educational offers (discounts on courses).
+
+5. Tracking: We track children's activity on our learning platform to improve content recommendations.
+
+6. Data Sharing: We share children's data with partner tutoring services.
+
+7. Data Retention: Data is retained until the child reaches 18, or until the parent withdraws consent.
+
+8. Grievance: Parents can file grievances via our general support email.
+
+9. No DPO appointed as we are a small startup.

@@ -1,0 +1,27 @@
+Corporate Privacy Policy – Moderate Compliance
+
+1. Consent: We obtain user consent at account creation via a tick box. Consent covers all processing activities.
+
+2. Notice: Upon consent, we provide a notice describing what data is collected and why.
+
+3. Purpose Limitation: Data collected is used only for the purposes stated at the time of collection.
+
+4. Data Retention: Personal data is retained for 7 years after account closure, unless a shorter period is required by law.
+
+5. Data Security: We implement encryption for data in transit and at rest, and conduct annual security audits.
+
+6. Data Breach: If a breach is detected, we will notify affected users within 72 hours. The Board will be informed if required.
+
+7. Grievance Redressal: We have a grievance officer accessible at grievance@company.com. Complaints are resolved within 15 working days.
+
+8. Data Principal Rights: Users can request access, correction, or deletion by submitting a form. We will respond within 7 days.
+
+9. Children: We do not process data of children under 16 without parental consent. Parental consent is collected via an email verification.
+
+10. Consent Manager: We do not use a Consent Manager; users interact directly with us.
+
+11. DPO: Our Data Protection Officer is Mr. X, based in Mumbai. Contact: dpo@company.com.
+
+12. International Transfer: Data may be transferred to affiliates in the EU under standard contractual clauses.
+
+Date: March 2026

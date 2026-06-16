@@ -1,0 +1,35 @@
+Comprehensive Data Protection Policy
+
+1. Consent: Consent is obtained through an explicit, affirmative action (e.g., separate tick boxes for each purpose), with clear language in English/Hindi. Consent is specific, informed, and unambiguous. Users may withdraw consent at any time with the same ease.
+
+2. Notice: We provide a detailed notice before or at the time of consent, listing data items, purposes, user rights, and complaint mechanism.
+
+3. Data Minimisation: We collect only data necessary for the specified purpose.
+
+4. Data Quality: We ensure the accuracy and completeness of data used for decisions or disclosures.
+
+5. Security Safeguards: We implement encryption, access controls, and annual third-party security audits.
+
+6. Data Breach: In case of breach, we will immediately notify the Board in the prescribed format and each affected Data Principal.
+
+7. Erasure: We erase personal data upon withdrawal of consent or when the purpose is no longer served (defined as no contact for 3 years). We direct our processors to do the same.
+
+8. DPO: Appointed and based in India. Contact: dpo@company.com. DPO reports to the Board of Directors.
+
+9. Grievance Mechanism: Dedicated grievance officer, response within 7 days. Escalation to Board if not resolved.
+
+10. Significant Data Fiduciary: We conduct periodic Data Protection Impact Assessments (DPIA) and annual audits.
+
+11. Children: Parental consent is obtained through a verifiable method (e.g., video call with parent + government ID). We do not track, monitor behaviour, or target advertising to children.
+
+12. International Transfer: We do not transfer personal data outside India except to countries notified by the Central Government.
+
+13. Consent Manager: We enable users to give/manage/withdraw consent through a Board-registered Consent Manager. We comply with all obligations regarding Consent Manager accountability.
+
+14. User Rights: Users may request summary, correction, completion, updating, or erasure of their data via our portal.
+
+15. (Missing) We do not explicitly inform users about their duties under Section 15.
+
+16. (Missing) We have not implemented a mechanism for nomination (Section 14).
+
+Date: June 2026

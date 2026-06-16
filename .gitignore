@@ -1,0 +1,14 @@
+
+# Environment & Virtual Environment
+.env
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Chroma vector database
+data/chroma_*/
+*.sqlite3
+*.bin
