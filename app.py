@@ -1,4 +1,5 @@
 import os
+os.environ["PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION"] = "python"
 import re
 import streamlit as st
 # --- Make Streamlit secrets available as environment variables ---
