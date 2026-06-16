@@ -5,7 +5,11 @@ from core.vectorstore import get_retriever
 
 @st.cache_resource
 def get_groq_client():
-    return Groq(api_key=os.getenv("GROQ_API_KEY"))
+    api_key = st.secrets.get("GROQ_API_KEY") or os.getenv("GROQ_API_KEY")
+    if not api_key:
+        st.error("❌ GROQ_API_KEY not found. Please add it in Streamlit Cloud Secrets or .env file.")
+        raise ValueError("GROQ_API_KEY is required")
+    return Groq(api_key=api_key)
 
 def expand_query(question: str) -> list:
     """Generates alternative phrasings to improve retrieval recall."""
