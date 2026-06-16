@@ -4,7 +4,9 @@ import streamlit as st
 import datetime
 import plotly.graph_objects as go
 from dotenv import load_dotenv
-
+# --- Make Streamlit secrets available as environment variables ---
+if "GROQ_API_KEY" in st.secrets:
+    os.environ["GROQ_API_KEY"] = st.secrets["GROQ_API_KEY"]
 # --- Suppress logging ---
 import logging
 import warnings
