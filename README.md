@@ -1,4 +1,4 @@
-# ⚖️ COMPLY.AI Lite — AI Regulatory Intelligence & Compliance Assurance System
+# ⚖️ COMPLY.AI - AI Regulatory Intelligence & Compliance Assurance System
 
 A universal AI-powered platform for regulatory intelligence, compliance assessment, policy gap detection, and compliance guidance generation.
 
@@ -17,15 +17,15 @@ Regulatory compliance has become overwhelmingly complex for businesses.
 
 ---
 
-## The Solution: COMPLY.AI Lite
+## The Solution: COMPLY.AI
 
-**COMPLY.AI Lite** is a **universal, regulation-agnostic** AI system that helps organizations understand, analyze, and comply with regulatory requirements more efficiently.
+**COMPLY.AI** is a **universal, regulation-agnostic** AI system that helps organizations understand, analyze, and comply with regulatory requirements more efficiently.
 
 Upload **any regulation PDF**—whether it is the DPDP Act, a SEBI circular, an RBI guideline, GDPR text, SOX requirements, or another regulatory framework—and the system instantly becomes a specialized assistant for that document.
 
 ---
 
-## What COMPLY.AI Lite Does
+## What COMPLY.AI Does
 
 COMPLY.AI Lite enables organizations to:
 
@@ -63,7 +63,7 @@ Provide business information in plain English and generate:
 
 ---
 
-## Why COMPLY.AI Lite Stands Out
+## Why COMPLY.AI Stands Out
 
 - **Truly Regulation-Agnostic** — Works with virtually any regulatory PDF
 - **Smart DPDP Handling** — Enhanced support for DPDP-specific concepts including Significant Data Fiduciary obligations, children's data requirements, and conditional compliance obligations
@@ -205,17 +205,6 @@ streamlit run app.py
 - **Professional Reporting** — Exportable Excel reports with structured findings
 - **Semantic Search + RAG** — Context-aware retrieval for accurate responses
 - **Local & Private Processing** — Documents remain under organizational control
-
----
-
-## Future Enhancements
-
-- Multi-regulation comparative analysis
-- Regulatory change monitoring
-- Automated compliance control mapping
-- Risk scoring and prioritization engine
-- Enterprise workflow integrations
-- Multi-user collaboration and access control
 
 ---
 
