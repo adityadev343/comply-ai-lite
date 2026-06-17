@@ -1,4 +1,4 @@
-# ⚖️ COMPLY.AI - AI Regulatory Intelligence & Compliance Assurance System
+## ⚖️ COMPLY.AI - Regulatory Intelligence & Compliance Assurance System
 
 A universal AI-powered platform for regulatory intelligence, compliance assessment, policy gap detection, and compliance guidance generation.
 
