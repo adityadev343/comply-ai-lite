@@ -27,7 +27,7 @@ Upload **any regulation PDF**—whether it is the DPDP Act, a SEBI circular, an 
 
 ## What COMPLY.AI Does
 
-COMPLY.AI Lite enables organizations to:
+COMPLY.AI enables organizations to:
 
 - Understand complex regulatory documents through natural language interaction
 - Analyze internal policies against regulatory requirements
