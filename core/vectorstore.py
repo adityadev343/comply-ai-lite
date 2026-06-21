@@ -46,4 +46,4 @@ def get_vectorstore(file_path: str):
 def get_retriever(file_path: str):
     """Returns a retriever function for the uploaded regulation."""
     vs = get_vectorstore(file_path)
-    return vs.as_retriever(search_kwargs={"k": 20})   # increased from 12 to catch related chunks
+    return vs.as_retriever(search_kwargs={"k": 8})   # increased from 5 to catch related chunks
