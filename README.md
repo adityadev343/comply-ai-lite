@@ -91,18 +91,7 @@ Provide business information in plain English and generate:
 
 ## Architecture
 
-```text
-Streamlit UI
-(Q&A + Gap Analysis + Policy Builder)
-                ↓
-         Core Engines
-      (RAG, Gap, Builder)
-                ↓
-      ChromaDB Vector Store
-      + Intelligent Chunking
-                ↓
-      Groq LLM (Llama 3.3 70B)
-```
+![Architecture](Architecture.png)
 
 ---
 
