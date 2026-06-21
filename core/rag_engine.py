@@ -75,7 +75,8 @@ def ask_question(regulation_text: str, question: str) -> str:
                         "3. If you find a list (like a Schedule), verify the section number mentioned in the description (e.g., 'under section 9') matches the user's question.\n"
                         "4. If multiple entries exist, do not confuse them. Only choose the one where the description explicitly contains the requested section number.\n"
                         "5. Output the exact text of the matching entry. For example: 'Sl. No. X: [description]. Penalty: [exact amount].'\n"
-                        "6. If you cannot find an exact match, state: 'This specific penalty is not found in the provided text.'"
+                        "6. If you cannot find an exact match, state: 'This specific penalty is not found in the provided text.'\n"
+                        "7. Whenever you quote or summarize a definition or provision, explicitly state the FULL Section (and sub-section/clause) it comes from, e.g. write \"Section 2(i): ...\" or \"...as per Section 8(5)\" - never output a bare clause marker like \"(i)\" or \"(5)\" on its own without naming its parent Section. If the user's question already names a Section, use that number. Otherwise, identify the correct Section from the structure of the provided context (e.g., a lettered list under a 'Definitions' heading belongs to Section 2)."
                     )
                 },
                 {
