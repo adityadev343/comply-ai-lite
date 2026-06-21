@@ -1,0 +1,27 @@
+COMPLY.AI - RAG Evaluation Summary
+Questions evaluated: 50
+
+Metric                   Average  N/A rows   Status
+------------------------------------------------------------
+context_precision           0.94         0   GREEN
+context_recall              0.95         0   GREEN
+context_relevancy           0.92         0   GREEN
+faithfulness                0.97         0   GREEN
+answer_relevancy            0.96         0   GREEN
+exact_match                 1.00         0   GREEN
+
+Thresholds: GREEN >= 0.80, YELLOW >= 0.50, RED below 0.50
+
+Goal: GREEN (>=0.80) on Faithfulness and Exact Match, as these are
+most critical for a compliance tool (hallucinated facts / wrong numbers).
+
+Diagnostic guidance:
+  High Precision + Low Recall    -> retrieval misses coverage. Try increasing
+                                     k or adjusting chunk size/overlap.
+  High Recall + Low Faithfulness -> the right facts ARE retrieved, but the LLM
+                                     still drifts from them. Tighten the system
+                                     prompt to force 'use ONLY the context'.
+  Low Answer Relevancy           -> the LLM is going off-topic. Make the
+                                     instruction more directive.
+  Low Exact Match                -> numbers are being mis-copied or mis-
+                                     attributed to the wrong section/item.
